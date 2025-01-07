@@ -7,6 +7,7 @@ Leetcode to github via Leethub
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1524-string-matching-in-an-array](https://github.com/Aditic1/Leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Binary Search
@@ -20,6 +21,7 @@ Leetcode to github via Leethub
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
 ## String
 |  |
@@ -29,4 +31,8 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Aditic1/Leetcode/tree/master/1524-string-matching-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
