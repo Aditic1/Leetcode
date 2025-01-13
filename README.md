@@ -37,6 +37,7 @@ Leetcode to github via Leethub
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aditic1/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aditic1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
 | ------- |
@@ -92,4 +93,9 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/Aditic1/Leetcode/tree/master/0952-word-subsets) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aditic1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Aditic1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
