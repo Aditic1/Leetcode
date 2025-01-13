@@ -10,6 +10,7 @@ Leetcode to github via Leethub
 | [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Aditic1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0952-word-subsets](https://github.com/Aditic1/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Aditic1/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aditic1/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
@@ -31,6 +32,7 @@ Leetcode to github via Leethub
 ## String
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Aditic1/Leetcode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Aditic1/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -86,4 +88,8 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/Aditic1/Leetcode/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
