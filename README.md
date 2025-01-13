@@ -22,6 +22,7 @@ Leetcode to github via Leethub
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditic1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Aditic1/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aditic1/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -46,6 +48,7 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aditic1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -66,4 +69,12 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditic1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Backtracking
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bitmask
+|  |
+| ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
