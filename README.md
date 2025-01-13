@@ -33,6 +33,7 @@ Leetcode to github via Leethub
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Aditic1/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Aditic1/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -77,4 +78,12 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
