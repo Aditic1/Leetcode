@@ -8,6 +8,7 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditic1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Aditic1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0952-word-subsets](https://github.com/Aditic1/Leetcode/tree/master/0952-word-subsets) |
@@ -22,6 +23,7 @@ Leetcode to github via Leethub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditic1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aditic1/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
