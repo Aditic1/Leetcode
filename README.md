@@ -7,6 +7,7 @@ Leetcode to github via Leethub
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditic1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditic1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditic1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -52,6 +53,7 @@ Leetcode to github via Leethub
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditic1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Aditic1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -96,6 +98,7 @@ Leetcode to github via Leethub
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditic1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditic1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Hash Table
