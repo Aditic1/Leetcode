@@ -8,6 +8,7 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditic1/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Aditic1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditic1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditic1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -25,6 +26,7 @@ Leetcode to github via Leethub
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aditic1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditic1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditic1/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Aditic1/Leetcode/tree/master/0354-russian-doll-envelopes) |
@@ -54,6 +56,7 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditic1/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Aditic1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aditic1/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Aditic1/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
@@ -94,6 +97,7 @@ Leetcode to github via Leethub
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aditic1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Aditic1/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
@@ -110,4 +114,8 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Aditic1/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aditic1/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
