@@ -63,6 +63,7 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aditic1/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aditic1/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Aditic1/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Trie
 |  |
@@ -118,4 +119,12 @@ Leetcode to github via Leethub
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aditic1/Leetcode/tree/master/0042-trapping-rain-water) |
+## Math
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aditic1/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Aditic1/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 <!---LeetCode Topics End-->
